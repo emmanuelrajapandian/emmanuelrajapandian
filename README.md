@@ -9,11 +9,17 @@ In my prior professional role, I served as a Data Scientist developing new credi
 
 ### Languages & Tools:
 [![My Skills](https://skillicons.dev/icons?i=c,py,r,linux,mysql,aws,pytorch,sklearn,tensorflow,vscode)](https://skillicons.dev)
+
 ### Outside of Work:
 - 🔭 I’m diving deep into the latest research papers on LLMs, RAGs, Causal Inference(s), Prompt-Engineering to stay up-to date in these ever evolving fields. I try to comprehend the thoughts and processes underlying the content of these papers.
 - 🌱 I apply any newly encountered tech stacks from my readings to various datasets, gearing up for future roles that leverage these technologies. Recently, I created a notebook of an AI chatbot using Langchains, RAG, and LLM.
 - 🤔 I’m planning to dive deep into Causal ML and Advanced Prompt Engineering in LLMs. My intention is to apply these concepts in projects, as I believe that hands-on experience and application are more effective in enhancing understanding compared to mere reading.
 - 😄 I occasionally engage in Speedcubing, finding it to be a mental stimulant that enhances my thinking abilities and an excellent means of relaxation.
+
+<p float="left" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emmanuelrajapandian&theme=tokyonight">
+  <br><br></p>
+<br>
 
 | GitHub Stats | Languages |
 | --- | --- |
