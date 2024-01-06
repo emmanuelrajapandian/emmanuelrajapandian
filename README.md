@@ -17,7 +17,7 @@ In my prior professional role, I served as a Data Scientist developing new credi
 
 | GitHub Stats | Languages |
 | --- | --- |
-| ![emmanuelrajapandian's Stats](https://github-readme-stats.vercel.app/api?username=emmanuelrajapandian&theme=gotham&show_icons=true&hide_border=true&count_private=true) | ![emmanuelrajapandian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelrajapandian&theme=gotham&show_icons=true&hide_border=true&layout=compact) |
+| ![emmanuelrajapandian's Stats](https://github-readme-stats.vercel.app/api?username=emmanuelrajapandian&theme=vue-dark&show_icons=true&hide_border=true) | ![emmanuelrajapandian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelrajapandian&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) |
 
   
   
