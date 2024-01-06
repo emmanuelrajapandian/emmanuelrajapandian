@@ -4,7 +4,9 @@ Hello! I am a Business Research Analyst at Amazon conducting analyses and buildi
 
 In my prior professional role, I served as a Data Scientist developing new credit underwriting by constructing predictive models utilizing XGBoost to predict the likelihood of loan delinquency for customers in specific loan portfolios. Earned my bachelor's degree in EE from the Indian Institute of Information Technology, Chennai.  
   
-![](https://komarev.com/ghpvc/?username=emmanuelrajapandian&style=flat-square)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelrajapandian&label=Profile%20Views&color=0040d6&style=flat-square" alt="emmanuelrajapandian" /> </p>
+
+
 ### Languages & Tools:
 [![My Skills](https://skillicons.dev/icons?i=c,py,r,linux,mysql,aws,pytorch,sklearn,tensorflow,vscode)](https://skillicons.dev)
 ### Outside of Work:
