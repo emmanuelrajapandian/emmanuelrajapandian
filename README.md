@@ -6,7 +6,6 @@ In my prior professional role, I served as a Data Scientist developing new credi
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelrajapandian&label=Profile%20Views&color=0040d6&style=flat-square" alt="emmanuelrajapandian" /> </p>
 
-<br> 
 <p float="left" align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WillDev12&theme=tokyonight">
   <br><br></p>
