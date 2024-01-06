@@ -6,25 +6,23 @@ In my prior professional role, I served as a Data Scientist developing new credi
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelrajapandian&label=Profile%20Views&color=0040d6&style=flat-square" alt="emmanuelrajapandian" /> </p>
 
+<br> 
+<p float="left" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WillDev12&theme=tokyonight">
+  <br><br></p>
 
 ### Languages & Tools:
 [![My Skills](https://skillicons.dev/icons?i=c,py,r,linux,mysql,aws,pytorch,sklearn,tensorflow,vscode)](https://skillicons.dev)
-
 ### Outside of Work:
 - 🔭 I’m diving deep into the latest research papers on LLMs, RAGs, Causal Inference(s), Prompt-Engineering to stay up-to date in these ever evolving fields. I try to comprehend the thoughts and processes underlying the content of these papers.
 - 🌱 I apply any newly encountered tech stacks from my readings to various datasets, gearing up for future roles that leverage these technologies. Recently, I created a notebook of an AI chatbot using Langchains, RAG, and LLM.
 - 🤔 I’m planning to dive deep into Causal ML and Advanced Prompt Engineering in LLMs. My intention is to apply these concepts in projects, as I believe that hands-on experience and application are more effective in enhancing understanding compared to mere reading.
 - 😄 I occasionally engage in Speedcubing, finding it to be a mental stimulant that enhances my thinking abilities and an excellent means of relaxation.
 
-<p float="left" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emmanuelrajapandian&theme=tokyonight">
-  <br><br></p>
-<br>
 
 | GitHub Stats | Languages |
 | --- | --- |
+| ![emmanuelrajapandian's Stats](https://github-readme-stats.vercel.app/api?username=emmanuelrajapandian&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | ![emmanuelrajapandian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelrajapandian&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) |
 
-| ![emmanuelrajapandian's Stats](https://github-readme-stats.vercel.app/api?username=emmanuelrajapandian&theme=gotham&show_icons=true&hide_border=true&count_private=true) | ![emmanuelrajapandian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelrajapandian&theme=gotham&show_icons=true&hide_border=true&layout=compact) |
-  
-  
+
 Feel free to reach out via [email](mailto:emmanuel.rajapandian@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/emmanuel-rajapandian/)!
