@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I am a Business Research Analyst at Amazon conducting analyses and building models to drive ASIN Conversion through Causal AI, Machine Learning, and Statistical Modeling. Currently pursuing my Masters in DataScience from UT Austin [Expected 2024].  
+I am a Business Analyst at Amazon conducting analyses and building models to drive ASIN Conversion through Causal AI, Machine Learning, and Statistical Modeling. Currently pursuing my Masters in DataScience from UT Austin [Expected 2024].  
 
 In my prior professional role, I served as a Data Scientist developing new credit underwriting by constructing predictive models utilizing XGBoost to predict the likelihood of loan delinquency for customers in specific loan portfolios. Earned my bachelor's degree in EE from the Indian Institute of Information Technology, Chennai.  
   
@@ -13,10 +13,10 @@ In my prior professional role, I served as a Data Scientist developing new credi
 ### Languages & Tools:
 [![My Skills](https://skillicons.dev/icons?i=c,py,r,linux,mysql,aws,pytorch,sklearn,tensorflow,vscode)](https://skillicons.dev)
 ### Outside of Work:
-- 🔭 I’m diving deep into the latest research papers on LLMs, RAGs, Causal Inference(s), Prompt-Engineering to stay up-to date in these ever evolving fields. I try to comprehend the thoughts and processes underlying the content of these papers.
-- 🌱 I apply any newly encountered tech stacks from my readings to various datasets, gearing up for future roles that leverage these technologies. Recently, I created a notebook of an AI chatbot using Langchains, RAG, and LLM.
-- 🤔 I’m planning to dive deep into Causal ML and Advanced Prompt Engineering in LLMs. My intention is to apply these concepts in projects, as I believe that hands-on experience and application are more effective in enhancing understanding compared to mere reading.
-- 😄 I occasionally engage in Speedcubing, finding it to be a mental stimulant that enhances my thinking abilities and an excellent means of relaxation.
+- 🔭 I’m diving deep into the latest research papers on LLMs, Causal Inference(s), Prompt-Engineering to stay up-to date in these ever evolving fields. I try to comprehend the thoughts and processes underlying the content of these papers.
+- 🌱 I apply any newly encountered tech stacks from my readings to various datasets, gearing up for future roles that leverage these technologies. 
+- 🤔 I’m planning to dive deep into Causal ML and Advanced Prompt Engineering in LLMs. My intention is to apply these concepts in projects, as I believe that hands-on experience and application are more effective in enhancing understanding compared to mere reading. Recently, I've created a notebook of an conversational agent using Langchains, RAG, and LLM. I am currently learning different prompting technqiues in LLMs.
+- 😄 I occasionally engage in Speedcubing, finding it to be a mental stimulant that enhances my thinking abilities and an excellent means of relaxation. Good in solving the Pyraminx!
 
 
 | GitHub Stats | Languages |
