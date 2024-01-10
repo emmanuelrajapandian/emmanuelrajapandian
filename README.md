@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I am a Business Analyst at Amazon conducting analyses and building models to drive ASIN Conversion through Causal AI, Machine Learning, and Statistical Modeling. Currently pursuing my Masters in DataScience from UT Austin [Expected 2024].  
+I am a Business Analyst at Amazon conducting research/analyses and building models to drive ASIN Conversion through Causal AI, Machine Learning, and Statistical Modeling. Currently pursuing my Masters in DataScience from UT Austin [Expected 2024].  
 
 In my prior professional role, I served as a Data Scientist developing new credit underwriting by constructing predictive models utilizing XGBoost to predict the likelihood of loan delinquency for customers in specific loan portfolios. Earned my bachelor's degree in EE from the Indian Institute of Information Technology, Chennai.  
   
